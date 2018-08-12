@@ -3,7 +3,7 @@ Project for Dr.Baqeri Lab
 # Contributers
  * Amirhossein Nasrollahi
  * Amin Abyaneh
- * Armin Oveisi
+ * Mohammad Oveisi
 
 # Opencv Installation
  * [Install guide](https://pypi.org/project/opencv-python/)
