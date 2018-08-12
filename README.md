@@ -9,4 +9,3 @@ Project for Dr.Baqeri Lab
  * [Install guide](https://pypi.org/project/opencv-python/)
  * [Tutorial](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
  * Run`pip install opencv-python` 
-
