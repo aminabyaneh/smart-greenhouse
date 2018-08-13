@@ -9,3 +9,7 @@ Project for Dr.Baqeri Lab
  * [Install guide](https://pypi.org/project/opencv-python/)
  * [Tutorial](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
  * Run`pip install opencv-python` 
+ 
+# Useful Resources
+ * [Code Commenting](https://medium.freecodecamp.org/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83)
+ * [Quick Review on Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
