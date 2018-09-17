@@ -1,6 +1,4 @@
-# Smart Greenhouse Approach Plan
-
-## Important Factors in a Greenhouse
+# Important Factors in a Greenhouse
 This is the brief tutorial of how special parameters affect greenhouse and its plants.
 
 ### IOT Based Parameters
