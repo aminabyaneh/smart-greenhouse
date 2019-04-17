@@ -86,16 +86,10 @@ Analog - Digital
 0-4.2V
 1$
 
-## Image Processing Solutions
-Empty for now.
-
-## Machine Learning and Fuzzy Logic Solutions
-Empty for now.
+## Image Processing Solutions and Machine Learning
+Implementation of yolov2 and keras for detecting leaves and deciding on plant leaves condition.
+## Fuzzy Logic Solutions
+Matlab fuzzy toolbox.
 
 ## GUI
 Python – Android Studio
-
-
-## References
-[1] Vu Minh Quan, Gourab Sen Gupta, Subhas Mukhopadhyay, (2011), “Review of sensors for greenhouse climate monitoring”, Publisher: IEEE
-
