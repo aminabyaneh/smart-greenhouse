@@ -1,5 +1,5 @@
 # Smart_Greenhouse
-Project for Dr.Baqeri Lab 
+Project for Artificial Creatures Lab at Sharif University. 
 # Contributers
  * Amirhossein Nasrollahi
  * Amin Abyaneh
